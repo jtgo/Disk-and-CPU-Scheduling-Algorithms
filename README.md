@@ -12,7 +12,7 @@ For Disk Scheduling, four algorithms were implemented:
 *   LOOK
 
 ## Contribution
-*   The algorithms were distrubted evenly among the groupmates and I was responsible for implementing the SCAN and LOOK Disk scheduling algorithms. I was also responsible for compiling and organizing printing the outputs in order to make the project cohesive.
+*   The algorithms were distrubted evenly among the groupmates and I was responsible for implementing the Pre-emptive Priority and Shortest Remaining Time First scheduling algorithms. 
 
 ## Implementation
 The project was implemented using the java programming language and coded through the Netbeans 8.2 IDE. 
